@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-19T12:00:12Z",
+  "_captured_run_id": "r_6ac176a1068a4fee8b9461eb940321cd",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC AUTOREG data=gdansk_dane_panelowe_d",
+    "NOTE: Using Python (arch package) for AUTOREG estimation"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

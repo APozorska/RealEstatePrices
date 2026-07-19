@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_autoreg_warszawa_dynamic",
+  "source_file": "program.sas",
+  "source_blob_sha": "a13870a0c03df343c6f64ad3fcade041f2608bd6",
+  "source_commit": "2dd4f97a9780697d8c2f5c460ed9832220b97bca",
+  "notes": "Dynamic linear model (PROC AUTOREG) for Warszawa from program.sas \u2014 the fullest specification, all five regressors (cena on M_do35, \"M_35-50\"n, \"M_50-80\"n, Wsk_cen, \"cena-1\"n). Self-contained: the repo's own warszawa_dane_panelowe_d observations (all 63 rows) are inlined via a DATA step with datalines. The chow=(32 48) structural-break option was dropped so the captured run is warning-free; estimates match the original dataset exactly (Intercept -12221.409254, SSE 2708392.546917)."
+}

@@ -1,0 +1,39 @@
+
+                     The AUTOREG Procedure
+
+                     Dependent Variable   cena
+
+
+                        Parameter Estimates
+
+
+          Variable      Estimate    Std Error   t Value   Pr > |t|
+
+          --------------------------------------------------------
+
+          Intercept      -23081.572123 1628.173184    -14.18    0.0000
+
+          m_do35         227.770790  38.080215      5.98    0.0000
+
+          M_50-80        -154.577473  36.823694     -4.20    0.0001
+
+          Wsk_cen        270.071229  17.810607     15.16    0.0000
+
+          cena-1           0.272484   0.049065      5.55    0.0000
+
+
+
+                        Fit Statistics
+
+
+          SSE            1964687.332267
+
+          MSE              31185.513211
+
+          AIC                840.691919
+
+          SBC                851.407592
+
+          Log Likelihood    -415.345959
+
+          Durbin-Watson        1.545455
