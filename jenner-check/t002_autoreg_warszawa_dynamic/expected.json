@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-19T12:00:12Z",
+  "_captured_run_id": "r_bdb8d768dedb41c8b8144c2f5ff3b370",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC AUTOREG data=warszawa_dane_panelowe_d",
+    "NOTE: Using Python (arch package) for AUTOREG estimation"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

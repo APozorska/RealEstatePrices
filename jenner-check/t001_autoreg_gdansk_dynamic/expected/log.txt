@@ -1,0 +1,16 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA gdansk_dane_panelowe_d
+
+NOTE: Processing inline DATALINES (63 lines)
+
+NOTE: Read 63 rows from DATALINES.
+NOTE: Wrote gdansk_dane_panelowe_d (63 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC AUTOREG data=gdansk_dane_panelowe_d
+
+NOTE: Using Python (arch package) for AUTOREG estimation
+NOTE: R cross-validation renderer available
